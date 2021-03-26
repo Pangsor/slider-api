@@ -1,0 +1,8 @@
+{
+  "db_host": "MDN_HOST",
+  "db_name": "MDN_DB",
+  "db_user": "MDN_USER",
+  "db_pass": "MDN_PASSWORD",
+  "nsi_key": "MDN_NSI_KEY",
+  "enc_key": "MDN_ENC_KEY"
+}

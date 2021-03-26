@@ -1,0 +1,40 @@
+{
+  "name": "produksi-medan-api",
+  "version": "1.0.0",
+  "description": "produksi medan api",
+  "main": "produksi-medan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pangsor",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "swagger-ui-express": "^4.1.5",
+    "uuid": "^8.3.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagatech-si/produksi-medan-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/nagatech-si/produksi-medan-api/issues"
+  },
+  "homepage": "https://github.com/nagatech-si/produksi-medan-api#readme"
+}
